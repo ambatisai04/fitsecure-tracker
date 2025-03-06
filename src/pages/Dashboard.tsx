@@ -4,7 +4,7 @@ import { useAuth } from "@/contexts/AuthContext";
 import Navbar from "@/components/Navbar";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Activity, Calendar, Heart, Nutrition, TrendingUp, User, Clock } from "lucide-react";
+import { Activity, Calendar, Heart, Apple, TrendingUp, User, Clock } from "lucide-react";
 import { Progress } from "@/components/ui/progress";
 
 const Dashboard = () => {
